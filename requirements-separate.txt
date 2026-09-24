@@ -1,0 +1,5 @@
+# only needed for separate.py (vocal / music separation); dub.py uses the standard library
+demucs==4.0.1
+torch==2.7.1
+torchaudio==2.7.1
+soundfile

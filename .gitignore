@@ -1,0 +1,19 @@
+# secrets
+.env
+
+# generated / local
+.dubcache/
+.venv/
+__pycache__/
+*.log
+
+# media & subtitles (never commit movies or their audio)
+*.mkv
+*.mp4
+*.m4a
+*.wav
+*.flac
+*.mp3
+*.srt
+*.ass
+*.vtt
